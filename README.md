@@ -9,9 +9,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=toLuc57&theme=dark)](https://github.com/toLuc57?tab=repositories)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,graphql,mysql,nestjs,nodejs,c++,docker)](https://github.com/toLuc57)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,graphql,mysql,nestjs,nodejs,docker)](https://github.com/toLuc57)
 
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toLuc57&theme=radical&exclude=dart,flutter,java,git,github,graphql,mysql,nestjs,nodejs,c++,docker"/>
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toLuc57&theme=radical&exclude=dart,flutter,java,git,github,graphql,mysql,nestjs,nodejs,docker"/>
 
 <a href="https://github.com/BossHacke">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toLuc57&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
